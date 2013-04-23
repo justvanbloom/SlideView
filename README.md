@@ -1,7 +1,7 @@
 SlideViewController
 ============
 
-![Screenshot: Launch image](https://github.com/justvanbloom/SlideViewController/raw/master/screenshot.png)
+![Screenshot: Launch image](https://github.com/justvanbloom/SlideView/raw/master/screenshot.png)
 
 
 About
