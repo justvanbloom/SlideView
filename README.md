@@ -3,6 +3,7 @@ SlideViewController
 
 ![Screenshot: Launch image](https://github.com/justvanbloom/SlideView/raw/master/screenshot.png)
 
+[VideoDemo](http://www.youtube.com/watch?v=hfIdPWcq6bg)
 
 About
 -----
